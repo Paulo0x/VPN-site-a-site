@@ -1,3 +1,5 @@
+> **Note :** support de cours réalisé par Yannick Kuhn, formateur à l'École O'clock. Je le conserve ici comme référence, et parce qu'il peut servir à d'autres apprenants.
+
 # VPN Site-à-Site IPsec avec pfSense sur Proxmox
 
 Interconnexion de deux sites via un tunnel VPN IPsec.
